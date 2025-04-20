@@ -59,6 +59,8 @@ author: chendiexin
 
 ​	新建的内容：https://doubledeft.github.io/2025-04-20-my-daily-md/
 
+​	暂时先用这个了，后续再说
+
   7.给这个本地项目
 
 ​    /Users/chendiexin/Downloads/download/example/code
