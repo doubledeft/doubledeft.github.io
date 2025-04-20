@@ -38,11 +38,21 @@
 
 ​    项目为：/Desktop/wnmp/github/doubledeft.github.io
 
+​	使用另一个博客项目了：/Desktop/wnmp/github/doubledeft-beautiful-jekyll
+
+​	网站为：https://doubledeft.github.io/
+
+​	访问的格式是：https://doubledeft.github.io/2020-02-26-flake-it-till-you-make-it/
+
+​	post文件里的文件名就行了
+
+​	新建的内容：https://doubledeft.github.io/2025-04-20-my-daily-md/
+
   7.给这个本地项目
 
 ​    /Users/chendiexin/Downloads/download/example/code
 
-​    进行全局的注释生成，使用roocdoe
+​    进行全局的注释生成，使用roocode
 
 ​     
 
