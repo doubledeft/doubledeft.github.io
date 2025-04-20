@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: 2025-04-20-my-daily-md
+subtitle: 每日博客记录，2025-04-20
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: chendiexin
 ---
 2025/04/20:
 
